@@ -19,23 +19,24 @@ public class Persona extends Thread {
     private int edad;
     private int escogerAtrac;
     private String atraccion;
-    private boolean esperandoSubir,juegoOn;
+    private boolean esperandoSubir,juegoOn,enTobogan;
     private ParqueInfantil park;
     
 
     public Persona(int ID, int edad, String atraccion, boolean esperandoSubir,ParqueInfantil park) {
         this.ID = ID;
-        this.edad = edad;
+        this.edad = 2 +(edad%10);
         this.atraccion = atraccion;
         this.esperandoSubir = esperandoSubir;
         this.park=park;
         this.juegoOn=true;
+        this.enTobogan=false;
     }
 
     @Override
     public void run() {
         
-       while(juegoOn){ // cambiar por algun 
+       while(juegoOn){ 
            try{
            try{
                sleep(200+(int)(1800*Math.random())); //pensar antes de elegir una de las atracciones  
@@ -51,6 +52,7 @@ public class Persona extends Thread {
                        park.salirColumpios(this);
                        break;
                    case 1: // tobogan
+                       
                        park.entraTobogan(this);
                        park.salirTobogan(this);
                        break;
@@ -65,11 +67,23 @@ public class Persona extends Thread {
             Logger.getLogger(Persona.class.getName()).log(Level.SEVERE, null, ex);
         }
        }
+        System.out.println("niño");
     }
 
     private int decidir() {
         int i= (int)(Math.random()*3);
         return i;
+    }
+
+    public int getEdad() {
+        return this.edad;
+    }
+
+    boolean estaEnTobogan() {
+        return enTobogan;    
+    }
+    void setEnTobogan(boolean estado){
+        this.enTobogan = estado;
     }
     
     
