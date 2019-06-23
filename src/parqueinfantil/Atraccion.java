@@ -11,10 +11,7 @@ package parqueinfantil;
  */
 public class Atraccion { 
 
-    public Atraccion() {
-        System.out.println("cambio");
-        System.out.println("no se que pasa");
-    }
+   
     
     
 }
