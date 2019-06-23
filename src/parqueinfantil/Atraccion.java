@@ -10,5 +10,10 @@ package parqueinfantil;
  * @author david
  */
 public class Atraccion { 
+
+    public Atraccion() {
+        System.out.println("cambio");
+    }
+    
     
 }
