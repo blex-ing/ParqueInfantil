@@ -4,15 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/Atraccion.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/Ventanas/ModuloCtrlSupervisor.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/Ventanas/NewMain.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ClienteSupervisor.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ClienteVigilante.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ControlParque.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ControlVigilante.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ServidorParque.java</file>
             <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/ParqueInfantil.java</file>
-            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/InterfaceControlVigilante.java</file>
+            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/Controles_Cliente_Servidor/ClienteSupervisor.java</file>
+            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/Controles_Cliente_Servidor/ControlParque.java</file>
+            <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/Ventanas/ModuloCtrlVigilante.java</file>
             <file>file:/C:/Users/david/Documents/Ingenieria%20INFORMÁTICA%202018-2019/SEGUNDO_CUATRIMESTRE/Programacion_Avanzada/PracticaExtraordinaria/ParqueInfantil/ParqueInfantil/src/parqueinfantil/Persona.java</file>
         </group>
     </open-files>

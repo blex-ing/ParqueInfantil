@@ -5,7 +5,6 @@
  */
 package Controles_Cliente_Servidor;
 
-import Controles_Cliente_Servidor.InterfaceControlVigilante;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 import javax.swing.JTextField;

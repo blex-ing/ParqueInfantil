@@ -13,6 +13,10 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import Controles_Cliente_Servidor.ControlParque;
+import Controles_Cliente_Servidor.ControlVigilante;
+
+import parqueinfantil.ParqueInfantil;
 import parqueinfantil.ParqueInfantil;
 
 /**
